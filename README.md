@@ -49,7 +49,6 @@ Based on the evaluation of ARIMA, SARIMA, ARCH, and GARCH models for forecasting
 The selection of this model was primarily due to:
 
 * **Lowest AIC and BIC values:** Indicating a good trade-off between model fit and complexity.
-* **R-squared score:** While negative (-4.899), it suggests a reasonable fit to the data. Negative R-squared values, especially in cases of non-stationary data or non-linear models, may not always indicate a poor model fit.
 
 **Model performance metrics:**
 
