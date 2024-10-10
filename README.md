@@ -55,6 +55,5 @@ The selection of this model was primarily due to:
 
 * **MAE, MSE, RMSE, MSLE, MedAE:** These metrics provide insights into the model's prediction errors. Further analysis is required to determine if these values are within acceptable ranges for the specific application.
 
-**Conclusion:**
 
-The selected SARIMA model can be considered a suitable model for forecasting Tesla stock prices based on the evaluation metrics. However, it is important to note that no model is perfect, and model performance may vary depending on market conditions and other factors.
+* The selected SARIMA model can be considered a suitable model for forecasting Tesla stock prices based on the evaluation metrics. However, it is important to note that no model is perfect, and model performance may vary depending on market conditions and other factors.
